@@ -6,7 +6,7 @@ Each solution includes a link to the original problem, the source code, and a de
 
 | #   | Problem                                           | Solution                                     |              Difficulty               |                      Explanation                      |
 | :-- | :------------------------------------------------ | :------------------------------------------- | :-----------------------------------: | :---------------------------------------------------: |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./solutions/0001-two-sum/solution.php) | <span style="color:green">Easy</span> | [See Explanation](./solutions/0001-two-sum/README.md) |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./solutions/0001-two-sum/solution.php) | <span style="color:green">Easy</span> | [See Explanation](./solutions/0001-two-sum/readme.md) |
 | ... | ...                                               | ...                                          |                  ...                  |                          ...                          |
 
 ---

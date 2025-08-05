@@ -1,0 +1,19 @@
+# My LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! Here I document my progress and approaches to solving various algorithmic and data structure problems.
+Each solution includes a link to the original problem, the source code, and a detailed explanation of my approach.
+## Solutions Table
+
+| #   | Problem                                           | Solution                                     |              Difficulty               |                      Explanation                      |
+| :-- | :------------------------------------------------ | :------------------------------------------- | :-----------------------------------: | :---------------------------------------------------: |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./solutions/0001-two-sum/solution.php) | <span style="color:green">Easy</span> | [See Explanation](./solutions/0001-two-sum/README.md) |
+| ... | ...                                               | ...                                          |                  ...                  |                          ...                          |
+
+---
+
+### **How to navigate**
+
+1.  **Find a problem** in the table above.
+2.  Click on the **issue name** to go to the LeetCode page.
+3.  Review the **code** by clicking the link in the "Solution" column.
+4.  Understand the **reasoning** behind the code in the "Explanation" column.

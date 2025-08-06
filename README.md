@@ -4,10 +4,11 @@ Welcome to my LeetCode solutions repository! Here I document my progress and app
 Each solution includes a link to the original problem, the source code, and a detailed explanation of my approach.
 ## Solutions Table
 
-| #   | Problem                                           | Solution                                     |              Difficulty               |                      Explanation                      |
-| :-- | :------------------------------------------------ | :------------------------------------------- | :-----------------------------------: | :---------------------------------------------------: |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./solutions/0001-two-sum/solution.php) | <span style="color:green">Easy</span> | [See Explanation](./solutions/0001-two-sum/readme.md) |
-| ... | ...                                               | ...                                          |                  ...                  |                          ...                          |
+| #   | Problem                                                           | Solution                                             |               Difficulty               |                          Explanation                          |
+| :-- | :---------------------------------------------------------------- | :--------------------------------------------------- | :------------------------------------: | :-----------------------------------------------------------: |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | [PHP](./solutions/0001-two-sum/solution.php)         | <span style="color:green">Easy</span>  |     [See Explanation](./solutions/0001-two-sum/readme.md)     |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [PHP](./solutions/0002-add-two-numbers/solution.php) | <span style="color:orange">Easy</span> | [See Explanation](./solutions/0002-add-two-numbers/readme.md) |
+| ... | ...                                                               | ...                                                  |                  ...                   |                              ...                              |
 
 ---
 
